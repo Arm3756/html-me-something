@@ -1,0 +1,30 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: tahoma, sans-serif;
+
+	color: #000000;  
+	margin: 5; 
+	padding: 1;
+	background-color: 00ff00;
+   	background-image: url("Images\iran.png");
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+    	background-position: center; 
+	}
+p {  
+	font-size: 2em;
+	text-align: justify;
+        text-indent: 50px;
+	}
+h3 { 
+	font: verdana, sans-serif;
+	margin-bottom: 0; 
+	color: #222222;
+	}
+footer {
+	text-align: center
+	}
+
