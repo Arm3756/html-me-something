@@ -4,15 +4,13 @@ html {
 	}
 body { 
 	font: tahoma, sans-serif;
-
 	color: #000000;  
-	margin: 5; 
+	margin: 0 auto; 
 	padding: 1;
-	background-color: 00ff00;
-   	background-image: url("Images\iran.png");
-    	background-repeat: no-repeat;
-    	background-attachment: fixed;
-    	background-position: center; 
+	background-color: 006600;
+width: 95%;
+
+
 	}
 p {  
 	font-size: 2em;
@@ -24,7 +22,72 @@ h3 {
 	margin-bottom: 0; 
 	color: #222222;
 	}
-footer {
-	text-align: center
-	}
 
+footer {
+	text-align: center;
+	}
+table{width: 60%}
+
+.img {
+   	 margin: 5px;
+   	 border: 1px solid #ccc;
+   	 width: 32%;
+	 float: left;
+}
+
+.img:hover {
+    border: 1px solid #777;
+}
+
+.img img {
+    width: 100%;
+    height: 200px;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+	color: white;
+	font: 15px arial, sans-serif;
+}
+
+
+.title {
+	border: 2px solid black;
+	margin: auto;
+	font: verdana, san-serif;
+	font-size: 5em;
+	height: 90px;
+    	background: #cccccc  no-repeat;
+    	text-align: center;
+   	border-radius: 25px;
+   	border: 2px solid #73AD21;
+    	padding: 20px; 
+
+
+
+}
+.text{
+	font: arial;
+	font-size: 20px;
+	width: 90%;
+	margin: auto;
+	background: #cccccc;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+
+}
+.back{
+	    border-radius: 25px;
+	    border: 2px solid #73AD21;
+	    padding: 20px; 
+	margin: 5px;
+}
+.img_header{
+     	border: 2px solid white;
+	border-radius: 25px;
+	align:"middle";
+ 	width:100%;
+ 	height:300px;
+}	
