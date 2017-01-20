@@ -32,6 +32,10 @@ table{width: 60%}
 #title { 
     text-align: center;
 }
+#header_title{ 
+text-align: center;
+color: white;
+}
 
 .img {
    	 margin: 5px;
