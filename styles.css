@@ -28,6 +28,11 @@ footer {
 	}
 table{width: 60%}
 
+
+#title { 
+    text-align: center;
+}
+
 .img {
    	 margin: 5px;
    	 border: 1px solid #ccc;
